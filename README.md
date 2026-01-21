@@ -227,9 +227,9 @@ COMMIT;
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📺 Démonstration du Projet
 
-<video src="https://github.com/ayman147-cmk/projet-swing-lp-agriculture/raw/main/ScreenRec_2026-01-21%2012-14-01.mp4" width="100%" controls>
-  Votre navigateur ne supporte pas la lecture de cette vidéo.
-</video>
+[![Regarder la vidéo](https://raw.githubusercontent.com/ayman147-cmk/projet-swing-lp-agriculture/main/user.png)](https://github.com/ayman147-cmk/projet-swing-lp-agriculture/blob/main/ScreenRec_2026-01-21%2012-14-01.mp4)
+
+*click ici pour regarder la video
 
 
 
