@@ -226,6 +226,8 @@ COMMIT;
 ## Vidéo sur les interfaces de l'application :
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[Cliquez ici pour voir la vidéo de démonstration](./ScreenRec_2026-01-21%2012-14-01.mp4)
+
 
 
 
