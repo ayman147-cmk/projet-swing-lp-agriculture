@@ -225,12 +225,12 @@ COMMIT;
 
 ## Vidéo sur les interfaces de l'application :
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-##  Démonstration du Projet
 
->  **Note :** La vidéo est volumineuse (55 Mo). Cliquez sur le lien ci-dessous pour la visionner ou la télécharger directement . Merci :
-> 
-> [** Visionner la vidéo de démonstration**](https://github.com/ayman147-cmk/projet-swing-lp-agriculture/raw/main/ScreenRec_2026-01-21%2012-14-01.mp4)
 
+
+
+
+https://github.com/user-attachments/assets/8cc9ce78-1e72-45b6-a9e7-58869154cd40
 
 
 
